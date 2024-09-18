@@ -1,0 +1,11 @@
+/venv/*
+.env
+tests/example.graphql
+schema.graphql
+.graphqlconfig
+.idea
+
+__pycache__
+__pycache__/*
+psql2graphql/__pycache__
+./psql2graphql/__pycache__/*
